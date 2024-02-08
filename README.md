@@ -35,5 +35,7 @@ I'm a final-year undergraduate at ABES Engineering College, Ghaziabad, exploring
 - :zap: Feel free to reach out to me for some interesting discussion.
   
 - :mailbox: How to reach me: [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/nisthajnn1234?s=11)
+---
 
+### :hammer_and_wrench: Languages and Tools :
 
