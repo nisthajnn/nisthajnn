@@ -21,6 +21,7 @@
 </div>
 ---
 ### :woman_technologist: About Me :
+
 I'm a final-year undergraduate at ABES Engineering College, Ghaziabad, exploring the chaos of the tech world.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 - :telescope: I like to make cool stuff that people would love to use.
@@ -31,6 +32,6 @@ I'm a final-year undergraduate at ABES Engineering College, Ghaziabad, exploring
   
 - :zap: Feel free to reach out to me for some interesting discussion.
   
-- :mailbox: How to reach me: [![Twitter Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Twitter&logoColor=white)]("https://x.com/nisthajnn1234?s=11")
+- :mailbox: How to reach me: [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/nisthajnn1234?s=11)
 
 
