@@ -19,12 +19,15 @@
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+---
 ### :woman_technologist: About Me :
-###- 🔭 Eager and ambitious, I'm a final-year undergraduate at ABES Engineering College, Ghaziabad, exploring the chaos of the tech world. 
-###- 🌱 I like to make cool stuff that people would love to use.
-###- 😄 You can shoot me an email at nisthajnn1234@gmail.com
-###- 👯 Feel free to reach out to me for some interesting discussion.
-###- 🤔 Porfolio website: https://nisthajnn.github.io/
-###- 💬 Resume: https://shorturl.at/exNSW
+I'm a final-year undergraduate at ABES Engineering College, Ghaziabad, exploring the chaos of the tech world.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- :telescope: I like to make cool stuff that people would love to use.
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :seedling: You can shoot me an email at nisthajnn1234@gmail.com
+- :zap: Feel free to reach out to me for some interesting discussion.
+- :mailbox: How to reach me: [![Twitter Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Twitter&logoColor=white)](https://x.com/nisthajnn1234?s=11)
+
+
 ###- 📫 Twitter: https://x.com/nisthajnn1234?s=11
 
