@@ -16,10 +16,10 @@
     <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
-👨🏻‍💻  About Me
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+### :woman_technologist: About Me :
 - 🔭 Eager and ambitious, I'm a final-year undergraduate at ABES Engineering College, Ghaziabad, exploring the chaos of the tech world. 
 - 🌱 I like to make cool stuff that people would love to use.
 - 😄 You can shoot me an email at nisthajnn1234@gmail.com
