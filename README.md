@@ -22,7 +22,7 @@
 ---
 
 
-:woman_technologist: About Me :
+### :woman_technologist: About Me :
 
 I'm a final-year undergraduate at ABES Engineering College, Ghaziabad, exploring the chaos of the tech world.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
