@@ -1,5 +1,7 @@
 ### Hey 👋, I'm Nistha Jain
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 👨🏻‍💻  About Me
 
 - 🔭 Eager and ambitious, I'm a final-year undergraduate at ABES Engineering College, Ghaziabad, exploring the chaos of the tech world. 
